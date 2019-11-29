@@ -12,7 +12,7 @@
     "minimum-stability": "alpha",
     "require": {
         "php": ">=7.1",
-        "phpdocumentor/type-resolver": "^0",
+        "phpdocumentor/type-resolver": "^0 || ^1",
         "webmozart/assert": "^1"
     },
     "require-dev": {
